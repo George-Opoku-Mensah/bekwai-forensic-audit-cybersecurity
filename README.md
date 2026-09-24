@@ -15,5 +15,6 @@ This replicates real SOC analyst work to save MMDAs millions.
 ## Link to Excel & Charts in this repo
 ## 📸 Evidence - Live Charts
 ![Pie Chart](chart.png)
-![Bar Chart](chart%20(2).png)
-![Bubble Chart](chart%20(3).png)
+![Bar Chart - Budget Risk](bar.png)
+![Pie Chart](pie.png)
+![Bubble Chart - Fraud Map](bubble.png)
