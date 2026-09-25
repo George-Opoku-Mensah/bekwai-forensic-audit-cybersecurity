@@ -13,7 +13,7 @@ Benford's Law, Duplicate Detection, Just-Below-Threshold, Round-Number Bias, Exc
 ## 💼 Bank of Ghana SOC Model
 This replicates real SOC analyst work to save MMDAs millions.
 ## Link to Excel & Charts in this repo
-## 📸 Evidence - Live Charts
-![Pie Chart](chart.png)
-![Bar Chart](bar.png)
-![Bubble Chart](bubble.png)
+
+![Bar Chart](chart.png)
+![Pie Chart](<chart (2).png>)
+![Bubble Chart](<chart (3).png>)
